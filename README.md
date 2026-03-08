@@ -153,4 +153,4 @@ MIT — free to use, share, and modify.
 
 ---
 
-*Built as a companion to the "Neural Network From Scratch" YouTube video series.*
+# @akanshayadav @codingdidi
