@@ -10,7 +10,7 @@ Build a fully working neural network from absolute zero — weights, forward pas
 
 | File | Description |
 |------|-------------|
-| `neural_network_from_scratch.ipynb` | Complete code — step by step, chapter by chapter |
+| `neurons.ipynb` | Complete code — step by step, chapter by chapter |
 
 ---
 
